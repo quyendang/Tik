@@ -1,9 +1,9 @@
 {
-    "image":"https://store-images.s-microsoft.com/image/apps.26459.13716569170107537.a6d4ff54-b043-46ab-8c42-25af77e1182b.19b8c1c1-ad45-42e0-9467-50f780d112d7?mode=scale&q=90&h=300&w=300",
+    "image":"https://store-images.s-microsoft.com/image/apps.14514.14456390498989558.1457b5d9-aac6-43b3-bcdf-d7788f4ed921.56682be7-1ae7-4fba-b725-108ea133b404?mode=scale&q=90&h=300&w=300",
     "update":"200",
-    "title":"Notification",
-    "description":"7Tik will back to the store soon!",
-    "url":"ms-windows-store://review/?ProductId=9NQL2QC8S935",
+    "title":"UPDATE NOW",
+    "description":"Please update 7 Tik to New Version Now!",
+    "url":"ms-windows-store://pdp/?productid=9NVWS85P2CWW",
     "buttonTitle":"OK",
     "type" : 0
  }
