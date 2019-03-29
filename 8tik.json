@@ -1,9 +1,9 @@
 {
     "image":"https://store-images.s-microsoft.com/image/apps.14514.14456390498989558.1457b5d9-aac6-43b3-bcdf-d7788f4ed921.56682be7-1ae7-4fba-b725-108ea133b404?mode=scale&q=90&h=300&w=300",
     "update":"200",
-    "title":"New App!",
-    "description":"We have just released a new application (GSearch), It allows you to download videos from Youtube. By downloading and evaluating the app, you helped our Team. Thank you very much!",
-    "url":"https://bit.ly/2UhOqEC",
-    "buttonTitle":"Download Now",
+    "title":"Rate me!",
+    "description":"If you like 8 Tik, Rate 8 Tik Now!",
+    "url":"ms-windows-store://review/?ProductId=9NVWS85P2CWW",
+    "buttonTitle":"Rate Now",
     "type" : 0
  }
