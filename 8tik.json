@@ -6,5 +6,8 @@
     "url":"ms-windows-store://review/?ProductId=9NVWS85P2CWW",
     "buttonTitle":"Rate Now",
     "type" : 0,
-"ads" : 0
+	"ads" : 0,
+"adid": "ca-app-pub-3686285731361148/6593213102",
+"pack": "9baa912c-ecdb-5ea8-8dcd-b93412d2b5aa",
+"adtype": 0
  }
