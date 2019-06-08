@@ -1,13 +1,10 @@
 {
-    "image":"https://store-images.s-microsoft.com/image/apps.14514.14456390498989558.1457b5d9-aac6-43b3-bcdf-d7788f4ed921.56682be7-1ae7-4fba-b725-108ea133b404?mode=scale&q=90&h=300&w=300",
+    "image":"https://store-images.s-microsoft.com/image/apps.61449.13591808268668545.e6950cd1-26a9-49a7-8c40-1dc513ec1d88.6eef661e-d772-44a6-8fe6-a37c00a5147a?mode=scale&q=90&h=270&w=270&background=white",
     "update":"200",
-    "title":"Rate me!",
-    "description":"If you like 8 Tik, Rate 8 Tik Now!",
-    "url":"ms-windows-store://review/?ProductId=9NVWS85P2CWW",
-    "buttonTitle":"Rate Now",
+    "title":"Download Youtube Video!",
+    "description":"Best download 4K video for Youtube, Download now?",
+    "url":"ms-windows-store://pdp/?productid=9NFN2V7C60H4",
+    "buttonTitle":"Download Now",
     "type" : 0,
-	"ads" : 0,
-"adid": "ca-app-pub-6885402663640641/9431910655",
-"pack": "com.windowsphone.ncsmusic",
-"adtype": 0
+	"ads" : 0
  }
