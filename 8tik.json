@@ -1,9 +1,13 @@
 {
-    "image":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/de/4e/39/de4e39d6-9795-58e8-7bda-f013d25588b7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/690x0w.jpg",
+    "image":"https://store-images.s-microsoft.com/image/apps.14514.14456390498989558.1457b5d9-aac6-43b3-bcdf-d7788f4ed921.56682be7-1ae7-4fba-b725-108ea133b404?mode=scale&q=90&h=300&w=300",
     "update":"200",
-    "title":"Help us!",
-    "description":"We just released a music player app for ios. Please help us by sharing this application. Thanks you!",
-    "url":"https://www.facebook.com/sharer/sharer.php?u=https://apps.apple.com/us/app/ncs-stream-listen-to-music/id1388347247?ls=1",
-    "buttonTitle":"Share Now",
+    "title":"Rate me!",
+    "description":"If you like 8 Tik, Rate 8 Tik Now!",
+    "url":"ms-windows-store://review/?ProductId=9NVWS85P2CWW",
+    "buttonTitle":"Rate Now",
     "type" : 0,
-	"ads" : 0 }
+	"ads" : 0,
+"adid": "ca-app-pub-6885402663640641/9431910655",
+"pack": "com.windowsphone.ncsmusic",
+"adtype": 0
+ }
