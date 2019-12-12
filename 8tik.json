@@ -1,10 +1,10 @@
 {
-    "image":"https://store-images.s-microsoft.com/image/apps.14514.14456390498989558.1457b5d9-aac6-43b3-bcdf-d7788f4ed921.56682be7-1ae7-4fba-b725-108ea133b404?mode=scale&q=90&h=300&w=300",
+    "image":"https://store-images.s-microsoft.com/image/apps.30141.13813502640778887.377cc67a-26b1-48f5-8a56-50eafdc089a4.1afff263-9b51-4c88-8788-0d1eb018e75c?mode=scale&q=90&h=300&w=300",
     "update":"200",
-    "title":"Rate me!",
-    "description":"If you like 8 Tik, Rate 8 Tik Now!",
-    "url":"ms-windows-store://review/?ProductId=9NVWS85P2CWW",
-    "buttonTitle":"Rate Now",
-    "type" : 0,
+    "title":"Upgrade 8 Tik!",
+    "description":"8 Tik has been updated to Tik Lite, Download Tik Lite Now!",
+    "url":"ms-windows-store://pdp/?productid=9MTFZ91FKR56",
+    "buttonTitle":"Download Now",
+    "type" : 1,
 	"ads" : 0
  }
